@@ -10,8 +10,13 @@ import tugasjdbcdaomvc.error.PelangganException;
 
 /**
  *
- * @author andreas
+ * @author
+ * NAMA   : ANDREAS SURYADI
+ * NIM    : 10119918
+ * KELAS  : IF-10K
+ * 
  */
+
 public class MainViewPelanggan extends javax.swing.JFrame {
 
     /**
